@@ -5,7 +5,7 @@ This a sample project Asp.Net Core API + MongoDb + Docker.
 A CRUD Example is at your disposal.
 
 ### Project structure :
-* Infrastructure folder contains the CosmosDb Settings class that is bind to appsettings
+* Infrastructure folder contains the MongoDb Settings class that is bind to appsettings
 * Models folder contains a View Model class for the example
 * Services folder contains services class News CRUD example with MongoDriver
 
